@@ -13,8 +13,6 @@
 
 	Name: Md. Ziaur Rahman
 	Email: shakziaurrahmantito@gmail.com
-	Phone: +8801798659666
-	Location: Manikganj/Dhaka/Bangladesh.
 
 
 
